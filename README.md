@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[Veja minhas referências no Pinterest](https://pin.it/2rnXGBewe)
+
 <!--
 **GabriellyBarros/GabriellyBarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
