@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[Veja minhas referências no Pinterest](https://pin.it/2rnXGBewe)
+<img width="735" height="441" alt="Ai" src="https://github.com/user-attachments/assets/0ec0ba4d-3d0f-4d11-8d08-9d96f81a583d" />
+
 
 <!--
 **GabriellyBarros/GabriellyBarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
