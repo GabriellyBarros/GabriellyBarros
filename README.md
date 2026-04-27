@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img width="735" height="441" alt="Ai" src="https://github.com/user-attachments/assets/0ec0ba4d-3d0f-4d11-8d08-9d96f81a583d" />
+
 
 
 <!--
