@@ -34,7 +34,7 @@
 <li style="list-style-type: disc;">
 <i>"Aprenda com o ontem, viva o hoje, olhe para o amanhã."</i>
 </li>
-  <p align="center" style="margin-top: -10px; margin-bottom: 15px;">
+  <p align="right" style="margin-top: -10px; margin-bottom: 15px;">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnE0M2k4OHE4Mmw0NGFuNXpxZmVwbnp4NHg5enh0MGM2cDhxY2ZvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bdGdF94ymhiYo/giphy.gif" 
   style="marin-top´: -160px; margin-left: 180px; position: relative; z-index: 10;">
   </p>
