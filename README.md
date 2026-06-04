@@ -15,7 +15,7 @@
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabriellyBarros&theme=jolly)  |  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GabriellyBarros&theme=jolly&hide_border=true)](https://git.io/streak-stats)  |
 | :-: | :-: |
 
-<br clear="both">
+</div><br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabriellyBarros/GabriellyBarros/pacman-output/pacman-contribution-graph-dark.svg">
